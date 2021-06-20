@@ -1,4 +1,4 @@
-<a  href="http://oyun.petdefteri.com" style="color:blue;font-weight:bold;font-size:40px;text-decoration:underline;">Live Demo</a>
+<a  href="http://oyun.petdefteri.com" style="">Live Demo</a>
 # Project setup
 ```
 npm install
